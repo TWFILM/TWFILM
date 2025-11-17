@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Techapat!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Techapat!;Welcome to my GitHub!;" />
 </h1>
 
 I'm a **CS student** at [Chiang Mai University (CMU), Thailand](https://www.google.com/search?q=Chiang+Mai+University).
@@ -9,7 +9,7 @@ I'm passionate about building efficient **Back-End systems**, creating interacti
 
 - 🌱 I’m currently learning: [Cloud technologies (especially AWS)](https://www.coursera.org/specializations/aws-cloud-practitioner-certification-course)
 - 🔭 I’m currently exploring: Building scalable back-end services and understanding distributed systems.
-- 💼 I’m open to: Collaborating on interesting open-source projects or new internship opportunities (Back-End / Full-Stack).
+- 💼 I’m open to: Collaborating on interesting open-source projects or internship opportunities (Back-End / Full-Stack).
 
 
 <br>
