@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Techapat!;Welcome+to+my+GitHub!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=60&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4500&lines=Hi+There!+👋;+I'm+Techapat!;Welcome+to+my+GitHub!;" />
 </h1>
 
 I'm a **CS student** at [Chiang Mai University (CMU), Thailand](https://www.google.com/search?q=Chiang+Mai+University).
