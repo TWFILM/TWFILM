@@ -35,5 +35,3 @@ I'm passionate about building efficient **Back-End systems**, creating interacti
   <img src="https://skillicons.dev/icons?i=git,linux,neovim,figma" />
   <br>
 </p>
-
-<hr>
