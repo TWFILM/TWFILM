@@ -14,16 +14,6 @@ I'm passionate about building efficient **Back-End systems**, creating interacti
 
 ---
 
-### 💻 My Tech Stack
-
-| Area | Technologies |
-| :--- | :--- |
-| 🧑‍💻 **Programming Languages** | `Python` `Go (Golang)` `JavaScript` `Java` `C++` `SQL` |
-| 🌐 **Frameworks & Libraries** | `React` `Gin` `Pandas` `NumPy` `Matplotlib` |
-| 🛠️ **Tools & Platforms** | `Docker` `Git` `Linux` `PostgreSQL` `MongoDB` `Figma` |
-
----
-
 ### 📫 How to Reach Me
 
 <p align="left">
