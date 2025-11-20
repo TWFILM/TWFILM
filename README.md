@@ -7,7 +7,7 @@ I'm a **CS student** at [Chiang Mai University (CMU), Thailand](https://www.goog
 
 I'm passionate about building efficient **Back-End systems**, creating interactive **Full-Stack applications**, and exploring the practical side of **Data Analytics & AI**.
 
-- 🌱 I’m currently learning: [Cloud technologies (especially AWS)](https://www.coursera.org/specializations/aws-cloud-practitioner-certification-course)
+- 🌱 I’m currently learning: **Full-Stack Development** with a focus on the **MERN stack (MongoDB, Express, React, Node.js)**.
 - 🔭 I’m currently exploring: Building scalable back-end services and understanding distributed systems.
 - 💼 I’m open to: Collaborating on interesting open-source projects or internship opportunities (Back-End / Full-Stack).
 
@@ -31,7 +31,7 @@ I'm passionate about building efficient **Back-End systems**, creating interacti
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,go,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express" />
   <img src="https://skillicons.dev/icons?i=git,linux,neovim,figma" />
   <br>
 </p>
