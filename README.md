@@ -30,8 +30,7 @@ I'm passionate about building efficient **Back-End systems**, creating interacti
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,go" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=git,linux,neovim,figma" />
-  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,go,html,css,js,react,express,nodejs,mongodb,postgres,git,linux,neovim,figma&perline=8" />
+  </a>
 </p>
