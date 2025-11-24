@@ -31,6 +31,6 @@ I'm passionate about building efficient **Back-End systems**, creating interacti
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,go,html,css,js,react,express,nodejs,mongodb,postgres,git,linux,neovim,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,go,html,css,js,react,vite,express,nodejs,mongodb,postgres,docker,git,linux,neovim,figma&perline=9" />
   </a>
 </p>
