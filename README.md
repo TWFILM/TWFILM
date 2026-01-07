@@ -1,15 +1,14 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=60&center=true&vCenter=true&width=700&height=100&color=000000&duration=5000&lines=Hi+There!+👋;+I'm+Techapat!;Welcome+to+my+GitHub!;" />
 </h1>
 
 I'm a **CS student** at [Chiang Mai University (CMU), Thailand](https://www.google.com/search?q=Chiang+Mai+University).
 
-I'm passionate about building efficient **Back-End systems**, creating interactive **Full-Stack applications**, and exploring the practical side of **Data Analytics & AI**.
+I'm passionate about creating interactive **Full-Stack applications**, automating workflows with **DevOps practices**, and exploring **Cloud Infrastructure**.
 
-- 🌱 I’m currently learning: **Full-Stack Development** with a focus on the **MERN stack (MongoDB, Express, React, Node.js)**.
-- 🔭 I’m currently exploring: Building scalable back-end services and understanding distributed systems.
-- 💼 I’m open to: Collaborating on interesting open-source projects or internship opportunities (Back-End / Full-Stack).
+- 🌱 I’m currently learning: **Full-Stack Development** (MERN stack) and **DevOps technologies** like **Docker** and **Kubernetes**.
+- 🔭 I’m currently exploring: **CI/CD pipelines**, **Containerization**, and **Distributed Systems**.
+- 💼 I’m open to: Collaborating on interesting open-source projects or internship opportunities (Full-Stack / DevOps).
 
 
 <br>
