@@ -4,11 +4,11 @@
 
 I'm a **CS student** at [Chiang Mai University (CMU), Thailand](https://www.google.com/search?q=Chiang+Mai+University).
 
-I'm passionate about creating interactive **Full-Stack applications**, automating workflows with **DevOps practices**, and exploring **Cloud Infrastructure**.
+I'm primarily passionate about building robust **Full-Stack applications**, and I'm currently expanding my skill set into **DevOps** and **Automated Testing** to ensure software quality and reliability.
 
-- 🌱 I’m currently learning: **Full-Stack Development** (MERN stack) and **DevOps technologies** like **Docker** and **Kubernetes**.
-- 🔭 I’m currently exploring: **CI/CD pipelines**, **Containerization**, and **Distributed Systems**.
-- 💼 I’m open to: Collaborating on interesting open-source projects or internship opportunities (Full-Stack / DevOps).
+- 🌱 I’m currently learning: **Advanced Full-Stack patterns** and **Software Testing**.
+- 🔭 I’m currently exploring: **DevOps practices**, **CI/CD pipelines**, and **Containerization** to enhance my development workflow.
+- 💼 I’m open to: Internship opportunities (Full-Stack Focus).
 
 
 <br>
