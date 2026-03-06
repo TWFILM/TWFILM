@@ -30,6 +30,6 @@ I'm primarily passionate about building robust **Full-Stack applications**, and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,go,html,css,js,react,vite,express,nodejs,mongodb,postgres,docker,git,linux,neovim,figma&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,go,html,css,js,react,nextjs,express,nodejs,mongodb,postgres,prisma,docker,git,linux,figma&perline=9" />
   </a>
 </p>
